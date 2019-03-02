@@ -1,0 +1,14 @@
+C:\code\bit-bucket\calcService\bin\Debug\netcoreapp2.2\calcService.deps.json
+C:\code\bit-bucket\calcService\bin\Debug\netcoreapp2.2\calcService.runtimeconfig.json
+C:\code\bit-bucket\calcService\bin\Debug\netcoreapp2.2\calcService.runtimeconfig.dev.json
+C:\code\bit-bucket\calcService\bin\Debug\netcoreapp2.2\calcService.dll
+C:\code\bit-bucket\calcService\bin\Debug\netcoreapp2.2\calcService.pdb
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.csprojAssemblyReference.cache
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.csproj.CoreCompileInputs.cache
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.RazorAssemblyInfo.cache
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.RazorAssemblyInfo.cs
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.AssemblyInfoInputs.cache
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.AssemblyInfo.cs
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.RazorTargetAssemblyInfo.cache
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.dll
+C:\code\bit-bucket\calcService\obj\Debug\netcoreapp2.2\calcService.pdb
