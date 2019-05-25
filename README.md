@@ -1,2 +1,1 @@
-# demo-containerized-microservice
-
+# Containerized App Example
