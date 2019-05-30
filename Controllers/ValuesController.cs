@@ -14,7 +14,7 @@ namespace calcService.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "Testing", "Testing" };
+            return new string[] { "Hello", "World" };
         }
 
         // GET api/values/5
